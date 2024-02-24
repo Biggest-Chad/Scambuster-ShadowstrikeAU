@@ -533,4 +533,5 @@ t.case_table = {
 		category = "raid",
 		description = "THIS IS A TEST LISTING - THANKS FOR HELPING OUT!",
 		url = "https://bigchadisthebest.com",
+	},
 }
