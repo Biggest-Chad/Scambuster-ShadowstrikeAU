@@ -1,0 +1,12 @@
+## Interface: 11501
+## Title: Scambuster-ShadowstrikeAU
+## Notes: Extension for Scambuster packaging ShadowstrikeAU realm data
+## Author: Big Chad
+## Version: 0.1.01
+## DefaultState: enabled
+## Dependencies: Scambuster
+
+LibStub.lua
+settings.lua
+list.lua
+core.lua
