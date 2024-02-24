@@ -2,7 +2,7 @@
 ## Title: Scambuster-ShadowstrikeAU
 ## Notes: Extension for Scambuster packaging ShadowstrikeAU realm data
 ## Author: Big Chad
-## Version: 0.1.01
+## Version: 0.1.31
 ## DefaultState: enabled
 ## Dependencies: Scambuster
 
