@@ -2,7 +2,7 @@
 
 # Scambuster-ShadowstrikeAU
 
-[![Discord](https://img.shields.io/discord/610036506974748700?style=for-the-badge&logo=discord&logoColor=white&label=discord&color=%23818dff)]((https://discord.gg/8m9ZzvwZKk))
+[![Discord](https://img.shields.io/discord/610036506974748700?style=for-the-badge&logo=discord&logoColor=white&label=discord&color=%23818dff)](https://discord.gg/8m9ZzvwZKk)
 https://discord.gg/8m9ZzvwZKk
 
 </div>
