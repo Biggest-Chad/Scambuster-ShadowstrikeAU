@@ -524,4 +524,13 @@ t.case_table = {
 		description = "Multiple ninja reports - known alts Pigeon / Arcane / Bulb / Peep.",
 		url = "https://discord.com/channels/1182247416477523969/1205047919401504788/1210586869868535869",
 	},
+	[52] = {
+		name = "Uselessidiot",
+		class = "MAGE",
+		faction = "Horde",
+		guid = "Player-5818-00A45AB0",
+		level = 3,
+		category = "raid",
+		description = "THIS IS A TEST LISTING - THANKS FOR HELPING OUT!",
+		url = "https://bigchadisthebest.com",
 }
