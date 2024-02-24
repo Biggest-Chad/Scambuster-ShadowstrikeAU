@@ -2,9 +2,8 @@
 
 # Scambuster-ShadowstrikeAU
 
-[![Discord](<img alt="Discord" src="https://img.shields.io/discord/1182247416477523969">
+[![Discord](<img alt="Discord" src="https://discord.com/widget?id=1182247416477523969">
 )](https://discord.gg/8m9ZzvwZKk)
-<iframe src="https://discord.com/widget?id=1182247416477523969&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 </div>
 
