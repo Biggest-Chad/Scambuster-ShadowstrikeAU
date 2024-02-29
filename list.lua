@@ -486,7 +486,7 @@ t.case_table = {
 	},
 	[48] = {
 		name = "Wallah",
-		class = "Rogue",
+		class = "ROGUE",
 		faction = "Alliance",
 		guid = "Player-5818-009E4AB2",
 		level = 3,
@@ -496,7 +496,7 @@ t.case_table = {
 	},
 	[49] = {
 		name = "Soog",
-		class = "Druid",
+		class = "DRUID",
 		faction = "Alliance",
 		guid = "Player-5818-009E5D49",
 		level = 3,
@@ -506,7 +506,7 @@ t.case_table = {
 	},
 	[50] = {
 		name = "Cokeman",
-		class = "Rogue",
+		class = "ROGUE",
 		faction = "Alliance",
 		guid = "Player-5818-009EB4E1",
 		level = 3,
@@ -526,7 +526,7 @@ t.case_table = {
 	},
 	[53] = {
 		name = "Nospirit",
-		class = "Priest",
+		class = "PRIEST",
 		faction = "Alliance",
 		guid = "Player-5818-009BF996",
 		level = 3,
@@ -536,7 +536,7 @@ t.case_table = {
 	},
 	[54] = {
 		name = "Vlakus",
-		class = "Priest",
+		class = "PRIEST",
 		faction = "Alliance",
 		guid = "Player-5818-00A7338B",
 		level = 3,
@@ -546,7 +546,7 @@ t.case_table = {
 	},
 	[55] = {
 		name = "Boglurker",
-		class = "Paladin",
+		class = "PALADIN",
 		faction = "Alliance",
 		guid = "Player-5818-009e2b60",
 		level = 3,
@@ -556,7 +556,7 @@ t.case_table = {
 	},
 	[56] = {
 		name = "Bungah",
-		class = "Paladin",
+		class = "PALADIN",
 		faction = "Alliance",
 		guid = "Player-5818-00A6F071",
 		level = 3,
@@ -566,7 +566,7 @@ t.case_table = {
 	},
 	[57] = {
 		name = "Púk",
-		class = "Druid",
+		class = "DRUID",
 		faction = "Alliance",
 		guid = "Player-5818-00A89C9E",
 		level = 3,
@@ -576,7 +576,7 @@ t.case_table = {
 	},
 	[58] = {
 		name = "Eerror",
-		class = "Warrior",
+		class = "WARRIOR",
 		faction = "Horde",
 		guid = "Player-5818-00A29CE8",
 		level = 3,
@@ -586,7 +586,7 @@ t.case_table = {
 	},
 	[59] = {
 		name = "Zíggy",
-		class = "Rogue",
+		class = "ROGUE",
 		faction = "Alliance",
 		guid = "Player-5818-00A4BFB1",
 		level = 3,
