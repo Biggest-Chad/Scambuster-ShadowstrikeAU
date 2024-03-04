@@ -2,7 +2,7 @@ local _, t = ...
 
 -- ShadowstrikeAU Discord Blocklist Table
 
--- unique characters: 52
+-- unique characters: 62
 
 t.version = "@project-version@"
 
@@ -524,7 +524,7 @@ t.case_table = {
 		description = "Multiple ninja reports - known alts Pigeon / Arcane / Bulb / Peep.",
 		url = "https://discord.com/channels/1182247416477523969/1205047919401504788/1210586869868535869",
 	},
-	[53] = {
+	[52] = {
 		name = "Nospirit",
 		class = "PRIEST",
 		faction = "Alliance",
@@ -534,7 +534,7 @@ t.case_table = {
 		description = " 1 Report - Ninja'd epic raid loot",
 		url = "https://discord.com/channels/1182247416477523969/1205047919401504788/1211493432305123408",
 	},
-	[54] = {
+	[53] = {
 		name = "Vlakus",
 		class = "PRIEST",
 		faction = "Alliance",
@@ -544,7 +544,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd epic raid loot",
 		url = "https://discord.com/channels/1182247416477523969/1205047919401504788/1211493432305123408",
 	},
-	[55] = {
+	[54] = {
 		name = "Boglurker",
 		class = "PALADIN",
 		faction = "Alliance",
@@ -554,7 +554,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd multiple raid items between friends in a PUG run",
 		url = "https://discord.com/channels/1182247416477523969/1211550714904711198",
 	},
-	[56] = {
+	[55] = {
 		name = "Bungah",
 		class = "PALADIN",
 		faction = "Alliance",
@@ -564,7 +564,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd multiple raid items between friends in a PUG run",
 		url = "https://discord.com/channels/1182247416477523969/1211550714904711198",
 	},
-	[57] = {
+	[56] = {
 		name = "Púk",
 		class = "DRUID",
 		faction = "Alliance",
@@ -574,7 +574,7 @@ t.case_table = {
 		description = "1 Report - Feral who ninja'd epic caster staff, troll/toxic afterwards",
 		url = "https://discord.com/channels/1182247416477523969/1211790149885894736",
 	},
-	[58] = {
+	[57] = {
 		name = "Eerror",
 		class = "WARRIOR",
 		faction = "Horde",
@@ -584,7 +584,7 @@ t.case_table = {
 		description = "1 Report - Warrior who ninja'd caster gear in a raid",
 		url = "https://discord.com/channels/1182247416477523969/1205047919401504788/1212349845789212712",
 	},
-	[59] = {
+	[58] = {
 		name = "Zíggy",
 		class = "ROGUE",
 		faction = "Alliance",
@@ -594,7 +594,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd gear and extorts people for gold to get it back",
 		url = "https://discord.com/channels/1182247416477523969/1212376670867038298",
 	},
-[59] = {
+        [59] = {
 		name = "Terps",
 		class = "WARLOCK",
 		faction = "Horde",
@@ -604,7 +604,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd gear by abusing master loot powers, toxic when confronted",
 		url = "https://discord.com/channels/1182247416477523969/1205047919401504788/1212652430081138728",
 	},
-[59] = {
+        [60] = {
 		name = "Badtouchingy",
 		class = "HUNTER",
 		faction = "Alliance",
@@ -614,7 +614,7 @@ t.case_table = {
 		description = "BEWARE - Part of a group of known ninjas - Repeatedly involved in ninja raids, do not group with this player.",
 		url = "https://discord.com/channels/1182247416477523969/1212655391423471626",
 	},
-[59] = {
+        [61] = {
 		name = "Ehrmantraut",
 		class = "Warrior",
 		faction = "Alliance",
