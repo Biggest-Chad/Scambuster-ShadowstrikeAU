@@ -2,7 +2,7 @@ local _, t = ...
 
 -- ShadowstrikeAU Discord Blocklist Table
 
--- unique characters: 62
+-- unique characters: 67
 
 t.version = "@project-version@"
 
@@ -616,12 +616,72 @@ t.case_table = {
 	},
         [61] = {
 		name = "Ehrmantraut",
-		class = "Warrior",
+		class = "WARRIOR",
 		faction = "Alliance",
 		guid = "Player-5818-009E4FCB",
 		level = 3,
 		category = "raid",
 		description = "1 Report - Ninja'd raid loot using made up raid rules, toxic when confronted.",
 		url = "https://discord.com/channels/1182247416477523969/1212376670867038298",
+	},
+	[62] = {
+		name = "Slapwit",
+		class = "PRIEST",
+		faction = "Horde",
+		guid = "Player-5818-00A7C99A",
+		level = 3,
+		category = "raid",
+		description = "Multiple Reports - Ninja, giref & toxic in raids - Attempting to doxx other players",
+		url = "https://discord.com/channels/1182247416477523969/1215585428388970536",
+	},
+	[63] = {
+		name = "Griefwit",
+		class = "PRIEST",
+		faction = "Horde",
+		guid = "Player-5818-009E4FCB",
+		level = 3,
+		category = "raid",
+		description = "Multiple Reports - Ninja, giref & toxic in raids - Attempting to doxx other players",
+		url = "https://discord.com/channels/1182247416477523969/1187952894566207498/1213834790550380544",
+	},
+	[64] = {
+		name = "Fatherbones",
+		class = "PRIEST",
+		faction = "Horde",
+		guid = "Player-5818-00A7FB37",
+		level = 3,
+		category = "raid",
+		description = "Unstable & toxic - Griefs raids, verbal abuse over comms",
+		url = "https://discord.com/channels/1182247416477523969/1215929135864614982",
+	},
+	[65] = {
+		name = "Nyoongar",
+		class = "WARRIOR",
+		faction = "Horde",
+		guid = "Player-5818-00A7B6F1",
+		level = 3,
+		category = "raid",
+		description = "Multiple Reports - Ninja, giref & toxic in raids - Attempting to doxx other players",
+		url = "https://discord.com/channels/1182247416477523969/1187952894566207498/1213834790550380544",
+	},
+	[66] = {
+		name = "Bigzip",
+		class = "SHAMAN",
+		faction = "Horde",
+		guid = "Player-5818-009E1EFD",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Ninja'd epic raid loot to friend, toxic in chat/disc after",
+		url = "https://discord.com/channels/1182247416477523969/1215235917019615242",
+	},
+	[67] = {
+		name = "Rdruid",
+		class = "DRUID",
+		faction = "Horde",
+		guid = "Player-5818-009	ea95b",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Ninja'd epic raid loot to friend, toxic in chat/disc after",
+		url = "https://discord.com/channels/1182247416477523969/1215235917019615242",
 	},
 }
