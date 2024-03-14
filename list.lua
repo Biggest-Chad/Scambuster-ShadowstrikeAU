@@ -365,7 +365,7 @@ t.case_table = {
 		url = "https://discord.com/channels/1182247416477523969/1187952894566207498/1195332135888900138",
 	},
 	[36] = {
-		name = "Exsee",
+		name = "Goodnews",
 		class = "WARLOCK",
 		faction = "Alliance",
 		guid = "Player-5818-009B5B49",
@@ -485,8 +485,8 @@ t.case_table = {
 		url = "https://discord.com/channels/1182247416477523969/1205047919401504788/1209416393968324608",
 	},
 	[48] = {
-		name = "Wallah",
-		class = "ROGUE",
+		name = "Latina",
+		class = "DRUID",
 		faction = "Alliance",
 		guid = "Player-5818-009E4AB2",
 		level = 3,
