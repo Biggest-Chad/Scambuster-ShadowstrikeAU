@@ -2,7 +2,7 @@ local _, t = ...
 
 -- ShadowstrikeAU Discord Blocklist Table
 
--- unique characters: 67
+-- unique characters: 72
 
 t.version = "@project-version@"
 
