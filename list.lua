@@ -2,7 +2,7 @@ local _, t = ...
 
 -- ShadowstrikeAU Discord Blocklist Table
 
--- unique characters: 72
+-- unique characters: 73
 
 t.version = "@project-version@"
 
@@ -731,7 +731,17 @@ t.case_table = {
 		guid = "Player-5818-00A6F55C",
 		level = 3,
 		category = "raid",
-		description = "inja - Abused ML to ninja epic raid gear. Also, refuses to raid lead effectively. Avoid PUGs with this player",
+		description = "Ninja - Abused ML to ninja epic raid gear. Also, refuses to raid lead effectively. Avoid PUGs with this player",
 		url = "https://discord.com/channels/1182247416477523969/1218010597455822858",
+	},
+	[73] = {
+		name = "Rawrtism",
+		class = "PRIEST",
+		faction = "Alliance",
+		guid = "Player-5818-00A89B83",
+		level = 3,
+		category = "raid",
+		description = "Part of a well known ninja / toxic / abusive group (friendly fellas) - AVOID ALL PUGS WITH THIS PLAYER",
+		url = "hhttps://discord.com/channels/1182247416477523969/1205047919401504788/1210586869868535869",
 	},
 }
