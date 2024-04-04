@@ -2,7 +2,7 @@ local _, t = ...
 
 -- ShadowstrikeAU Discord Blocklist Table
 
--- unique characters: 73
+-- unique characters: 85
 
 t.version = "@project-version@"
 
@@ -828,7 +828,7 @@ t.case_table = {
 		name = "Tickcat",
 		class = "DRUID",
 		faction = "Horde",
-		guid = "Player-5818-",
+		guid = "Player-5818-00A2F0B8",
 		level = 3,
 		category = "raid",
 		description = "Ninjas from raid, <The Bulls> guild trolls community disc afterwards",
@@ -838,7 +838,7 @@ t.case_table = {
 		name = "Tick",
 		class = "WARLOCK",
 		faction = "Horde",
-		guid = "Player-5818-",
+		guid = "Player-5818-009C52F8",
 		level = 3,
 		category = "raid",
 		description = "Ninjas from raid, <The Bulls> guild trolls community disc afterwards",
@@ -846,22 +846,22 @@ t.case_table = {
 	},
 	[84] = {
 		name = "Bankbeardo",
-		class = "",
-		faction = "",
-		guid = "Player-5818-",
+		class = "HUNTER",
+		faction = "Horde",
+		guid = "Player-5818-009E44AB",
 		level = 3,
 		category = "raid",
-		description = "",
-		url = "",
+		description = "Ninja'd epic caster weapon as a hunter",
+		url = "https://discord.com/channels/1182247416477523969/1224688125909925918",
 	},
 	[85] = {
-		name = "",
-		class = "",
-		faction = "",
+		name = "Gimi",
+		class = "MAGE",
+		faction = "Alliance",
 		guid = "Player-5818-",
 		level = 3,
 		category = "raid",
-		description = "",
-		url = "",
+		description = "Ninjas epic raid gear for off spec, openly admits it",
+		url = "https://discord.com/channels/1182247416477523969/1224006532988145745",
 	},
 }
