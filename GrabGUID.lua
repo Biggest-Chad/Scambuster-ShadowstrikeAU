@@ -7,6 +7,7 @@ end
 
 -- System message with delay
 DelayedPrint("|cffffff00[Grab GUID]|r loaded. Use |cff00ff00/gg|r or |cff00ff00/grabguid|r to bring up Grab GUID frame.", 2)
+DelayedPrint("|cffffff00[Blacklist Addon]|r Maintained by |cff00ff00 Big Chad|r. Got a submission to make, or question to ask? Head over to the Shadowstrike Community discord |cff00ff00 https://discord.gg/yBmb3SaaYG|r", 5)
 
 -- Create the main frame
 local mainFrame = CreateFrame("Frame", "GrabGUID_MainFrame", UIParent, "BasicFrameTemplate")
