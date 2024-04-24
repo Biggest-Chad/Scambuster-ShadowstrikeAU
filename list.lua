@@ -2,7 +2,7 @@ local _, t = ...
 
 -- ShadowstrikeAU Discord Blocklist Table
 
--- unique characters: 85
+-- unique characters: 88
 
 t.version = "@project-version@"
 
@@ -884,7 +884,7 @@ t.case_table = {
 		description = "WARNING - ENCHANT / PROFESSION MATS THEIF / SCAMMER - DO NOT TRADE",
 		url = "https://discord.com/channels/1182247416477523969/1231549681792712756",
 	},
-	[87] = {
+	[88] = {
 		name = "Mangsong",
 		class = "MAGE",
 		faction = "Horde",
