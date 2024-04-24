@@ -884,4 +884,14 @@ t.case_table = {
 		description = "WARNING - ENCHANT / PROFESSION MATS THEIF / SCAMMER - DO NOT TRADE",
 		url = "https://discord.com/channels/1182247416477523969/1231549681792712756",
 	},
+	[87] = {
+		name = "Mangsong",
+		class = "MAGE",
+		faction = "Horde",
+		guid = "Player-5818-00A54CE6",
+		level = 3,
+		category = "raid",
+		description = "Ninjas ST raid gear, refuses to trade, wipes raid and rage quits",
+		url = "https://discord.com/channels/1182247416477523969/1231079062592553050",
+	},
 }
