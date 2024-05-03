@@ -2,7 +2,7 @@ local _, t = ...
 
 -- ShadowstrikeAU Discord Blocklist Table
 
--- unique characters: 88
+-- unique characters: 92
 
 t.version = "@project-version@"
 
@@ -893,5 +893,45 @@ t.case_table = {
 		category = "raid",
 		description = "Ninjas ST raid gear, refuses to trade, wipes raid and rage quits",
 		url = "https://discord.com/channels/1182247416477523969/1231079062592553050",
+	},
+	[89] = {
+		name = "Flucas",
+		class = "HUNTER",
+		faction = "Alliance",
+		guid = "Player-5818-009F4EED",
+		level = 3,
+		category = "raid",
+		description = "AVOID PUGGING WITH THIS GUILD <AJs Raid Club> - Multiple reports of stealing items from PUGs to gift to guild members",
+		url = "https://discord.com/channels/1182247416477523969/1235230344140165170",
+	},
+	[90] = {
+		name = "Robbie",
+		class = "DRUID",
+		faction = "Alliance",
+		guid = "Player-5818-009B7491",
+		level = 3,
+		category = "raid",
+		description = "AVOID PUGGING WITH THIS GUILD <AJs Raid Club> - Multiple reports of stealing items from PUGs to gift to guild members",
+		url = "https://discord.com/channels/1182247416477523969/1235230344140165170",
+	},
+	[91] = {
+		name = "Pushinp",
+		class = "MAGE",
+		faction = "Alliance",
+		guid = "Player-5818-009B532F",
+		level = 3,
+		category = "raid",
+		description = "AVOID PUGGING WITH THIS GUILD <AJs Raid Club> - Multiple reports of stealing items from PUGs to gift to guild members",
+		url = "https://discord.com/channels/1182247416477523969/1235230344140165170",
+	},
+	[92] = {
+		name = "Wellfare",
+		class = "DRUID",
+		faction = "Horde",
+		guid = "Player-5818-00A4737E",
+		level = 3,
+		category = "raid",
+		description = "Ninjas epic healing gear as a DPS mainspec",
+		url = "https://discord.com/channels/1182247416477523969/1233633827776102400",
 	},
 }
