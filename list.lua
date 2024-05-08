@@ -901,7 +901,7 @@ t.case_table = {
 		guid = "Player-5818-009F4EED",
 		level = 3,
 		category = "raid",
-		description = "AVOID PUGGING WITH THIS GUILD <AJs Raid Club> - Multiple reports of stealing items from PUGs to gift to guild members",
+		description = "Potential risk for uncommunicated item reserves with this guild, use ML, ask for clarification of loot rules and be cautious",
 		url = "https://discord.com/channels/1182247416477523969/1235230344140165170",
 	},
 	[90] = {
@@ -911,7 +911,7 @@ t.case_table = {
 		guid = "Player-5818-009B7491",
 		level = 3,
 		category = "raid",
-		description = "AVOID PUGGING WITH THIS GUILD <AJs Raid Club> - Multiple reports of stealing items from PUGs to gift to guild members",
+		description = "Potential risk for uncommunicated item reserves with this guild, use ML, ask for clarification of loot rules and be cautious",
 		url = "https://discord.com/channels/1182247416477523969/1235230344140165170",
 	},
 	[91] = {
@@ -921,7 +921,7 @@ t.case_table = {
 		guid = "Player-5818-009B532F",
 		level = 3,
 		category = "raid",
-		description = "AVOID PUGGING WITH THIS GUILD <AJs Raid Club> - Multiple reports of stealing items from PUGs to gift to guild members",
+		description = "Potential risk for uncommunicated item reserves with this guild, use ML, ask for clarification of loot rules and be cautious",
 		url = "https://discord.com/channels/1182247416477523969/1235230344140165170",
 	},
 	[92] = {
@@ -933,5 +933,25 @@ t.case_table = {
 		category = "raid",
 		description = "Ninjas epic healing gear as a DPS mainspec",
 		url = "https://discord.com/channels/1182247416477523969/1233633827776102400",
+	},
+	[92] = {
+		name = "Taff",
+		class = "HUNTER",
+		faction = "Alliance",
+		guid = "Player-5818-00AA3823",
+		level = 3,
+		category = "raid",
+		description = "Ninjas for offspec",
+		url = "https://discord.com/channels/1182247416477523969/1235815309990957106",
+	},
+	[92] = {
+		name = "Whoscottmls",
+		class = "Rogue",
+		faction = "Horde",
+		guid = "Player-5818-",
+		level = 3,
+		category = "raid",
+		description = "WARNING - Troll raid lead - Will form a scuffed raid and leave the group, wasting your lockout. DO NOT JOIN THIS PLAYERS PUGS",
+		url = "https://discord.com/channels/1182247416477523969/1236321534415736962",
 	},
 }
