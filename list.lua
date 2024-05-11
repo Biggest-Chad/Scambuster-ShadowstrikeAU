@@ -2,7 +2,7 @@ local _, t = ...
 
 -- ShadowstrikeAU Discord Blocklist Table
 
--- unique characters: 92
+-- unique characters: 95
 
 t.version = "@project-version@"
 
@@ -934,7 +934,7 @@ t.case_table = {
 		description = "Ninjas epic healing gear as a DPS mainspec",
 		url = "https://discord.com/channels/1182247416477523969/1233633827776102400",
 	},
-	[92] = {
+	[93] = {
 		name = "Taff",
 		class = "HUNTER",
 		faction = "Alliance",
@@ -944,14 +944,24 @@ t.case_table = {
 		description = "Ninjas for offspec",
 		url = "https://discord.com/channels/1182247416477523969/1235815309990957106",
 	},
-	[92] = {
+	[94] = {
 		name = "Whoscottmls",
 		class = "Rogue",
 		faction = "Horde",
-		guid = "Player-5818-",
+		guid = "Player-5818-00A2076C",
 		level = 3,
 		category = "raid",
 		description = "WARNING - Troll raid lead - Will form a scuffed raid and leave the group, wasting your lockout. DO NOT JOIN THIS PLAYERS PUGS",
 		url = "https://discord.com/channels/1182247416477523969/1236321534415736962",
+	},
+	[95] = {
+		name = "Natrix",
+		class = "Rogue",
+		faction = "Horde",
+		guid = "Player-5818-009E2E21",
+		level = 3,
+		category = "raid",
+		description = "Randomly throws loot if they get upset, beware if this person is ML.",
+		url = "https://discord.com/channels/1182247416477523969/1236889912544989235",
 	},
 }
