@@ -2,7 +2,7 @@ local _, t = ...
 
 -- ShadowstrikeAU Discord Blocklist Table
 
--- unique characters: 95
+-- unique characters: 92
 
 t.version = "@project-version@"
 
@@ -895,36 +895,6 @@ t.case_table = {
 		url = "https://discord.com/channels/1182247416477523969/1231079062592553050",
 	},
 	[89] = {
-		name = "Flucas",
-		class = "HUNTER",
-		faction = "Alliance",
-		guid = "Player-5818-",
-		level = 3,
-		category = "raid",
-		description = "Potential risk for uncommunicated item reserves with this guild, use ML, ask for clarification of loot rules and be cautious",
-		url = "https://discord.com/channels/1182247416477523969/1235230344140165170",
-	},
-	[90] = {
-		name = "Robbie",
-		class = "DRUID",
-		faction = "Alliance",
-		guid = "Player-5818-",
-		level = 3,
-		category = "raid",
-		description = "Potential risk for uncommunicated item reserves with this guild, use ML, ask for clarification of loot rules and be cautious",
-		url = "https://discord.com/channels/1182247416477523969/1235230344140165170",
-	},
-	[91] = {
-		name = "Pushinp",
-		class = "MAGE",
-		faction = "Alliance",
-		guid = "Player-5818-",
-		level = 3,
-		category = "raid",
-		description = "Potential risk for uncommunicated item reserves with this guild, use ML, ask for clarification of loot rules and be cautious",
-		url = "https://discord.com/channels/1182247416477523969/1235230344140165170",
-	},
-	[92] = {
 		name = "Wellfare",
 		class = "DRUID",
 		faction = "Horde",
@@ -934,7 +904,7 @@ t.case_table = {
 		description = "Ninjas epic healing gear as a DPS mainspec",
 		url = "https://discord.com/channels/1182247416477523969/1233633827776102400",
 	},
-	[93] = {
+	[90] = {
 		name = "Taff",
 		class = "HUNTER",
 		faction = "Alliance",
@@ -944,7 +914,7 @@ t.case_table = {
 		description = "Ninjas for offspec",
 		url = "https://discord.com/channels/1182247416477523969/1235815309990957106",
 	},
-	[94] = {
+	[91] = {
 		name = "Whoscottmls",
 		class = "Rogue",
 		faction = "Horde",
@@ -954,7 +924,7 @@ t.case_table = {
 		description = "WARNING - Troll raid lead - Will form a scuffed raid and leave the group, wasting your lockout. DO NOT JOIN THIS PLAYERS PUGS",
 		url = "https://discord.com/channels/1182247416477523969/1236321534415736962",
 	},
-	[95] = {
+	[92] = {
 		name = "Natrix",
 		class = "Rogue",
 		faction = "Horde",
