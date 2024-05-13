@@ -916,7 +916,7 @@ t.case_table = {
 	},
 	[91] = {
 		name = "Whoscottmls",
-		class = "Rogue",
+		class = "ROGUE",
 		faction = "Horde",
 		guid = "Player-5818-00A2076C",
 		level = 3,
@@ -926,7 +926,7 @@ t.case_table = {
 	},
 	[92] = {
 		name = "Natrix",
-		class = "Rogue",
+		class = "ROGUE",
 		faction = "Horde",
 		guid = "Player-5818-009E2E21",
 		level = 3,
@@ -934,4 +934,15 @@ t.case_table = {
 		description = "Randomly throws loot if they get upset, beware if this person is ML.",
 		url = "https://discord.com/channels/1182247416477523969/1236889912544989235",
 	},
+	[93] = {
+		name = "Bravehunter,
+		class = "HUNTER",
+		faction = "Horde",
+		guid = "Player-5818-00AB21A7",
+		level = 3,
+		category = "raid",
+		description = "WARNING - SCAMMER - Proven history of stealing high value mats",
+		url = "https://discord.com/channels/1182247416477523969/1239431130508300341",
+	},
+
 }
