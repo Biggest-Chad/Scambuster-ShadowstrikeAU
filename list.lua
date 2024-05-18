@@ -935,7 +935,7 @@ t.case_table = {
 		url = "https://discord.com/channels/1182247416477523969/1236889912544989235",
 	},
 	[93] = {
-		name = "Bravehunter,
+		name = "Bravehunter",
 		class = "HUNTER",
 		faction = "Horde",
 		guid = "Player-5818-00AB21A7",
