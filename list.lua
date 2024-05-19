@@ -944,5 +944,14 @@ t.case_table = {
 		description = "WARNING - SCAMMER - Proven history of stealing high value mats",
 		url = "https://discord.com/channels/1182247416477523969/1239431130508300341",
 	},
-
+	[94] = {
+		name = "Stopcold",
+		class = "MAGE",
+		faction = "Alliance",
+		guid = "Player-5818-00ABE759",
+		level = 3,
+		category = "raid",
+		description = "Ninja - Needed on epic 2h sword (it's a mage) to blackmail/barter trade an item he wanted. Avoid grouping with this player",
+		url = "https://discord.com/channels/1182247416477523969/1241180824687214602",
+	},
 }
